@@ -1,0 +1,66 @@
+
+
+
+
+#searchWord{
+    padding-left:4%;
+    padding-top: 4px;
+}
+#searchIcon{
+    --main-color: #FF628F;;
+}
+#editDashboard{
+    margin-top: 5px;
+}
+.myLabel{
+    color: gray;
+    font-size: 17px;
+    margin-left: 8px;
+    padding: 1%;
+
+}
+.topCard {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+    text-align: center;
+    height: 180px;
+
+
+}
+.sessionTitle {
+    font-size: 15px;
+    padding: 8%;
+
+}
+#upcomingSessions {
+    height: 80%;
+}
+
+
+#middleLabels{
+    display: inline-flex;
+    width: 100%;
+}
+#popularSessionTitle{
+    padding-right: 43%;
+}
+.middleCard{
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12);
+    padding: 2%;
+    height: 400px;
+}
+.popularSession{
+    padding: 2%;
+}
+.popularSessionName{
+    padding: 1%;
+}
+.Exhibitor{
+    padding: 1%;
+}
+#tableContainer{
+    padding: 2%;
+}
+table{
+    padding: 1%;
+    width: 100%;
+}

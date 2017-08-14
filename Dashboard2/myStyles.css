@@ -1,0 +1,125 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: darkgray;
+}
+#rf-content{
+    height: 100%;
+}
+#leftNav {
+    float: left;
+    height: 100%;
+    width: 170px;
+    background-color: #988FFD;
+}
+.myNavigation {
+    padding: 8%;
+    font-size: 15px;
+    color: white;
+}
+.rfG-row{
+    display: inline-flex;
+    width: 100%;
+}
+#topBar {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12);
+    height: 45px;
+}
+#myContent{
+    padding-left: 170px;
+}
+#searchBar{
+    border: 1px solid  #988FFD;
+    border-radius: 15px;
+    width: 22%;
+    justify-content: space-between;
+    display: inline-flex;
+    margin-left: 4%;
+    margin-top: 5px;
+    height: 35px;
+
+}
+#searchWord{
+    padding-left:4%;
+    padding-top: 4px;
+}
+#searchIcon{
+    color: #988FFD;
+}
+#editDashboard{
+    margin-top: 5px;
+}
+#myMain{
+    width: 100%;
+    padding-left: 5px;
+
+}
+.myLabel{
+    color: gray;
+    font-size: 17px;
+    margin-left: 8px;
+    padding: 1%;
+
+}
+.topCard {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+    text-align: center;
+    height: 180px;
+}
+.sessionTitle {
+    font-size: 15px;
+    padding: 8%;
+
+}
+.sessionPrice {
+    padding: 6%;
+    font-size: 34px;
+    color: #988FFD;
+    border-radius: 50%;
+    border: solid 1px #988FFD;
+    width: 40%;
+    margin: 0 auto;
+}
+#middleLabels{
+    display: inline-flex;
+    width: 100%;
+}
+#popularSessionTitle{
+    padding-right: 43%;
+}
+.middleCard{
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.14), 0 2px 1px -1px rgba(0,0,0,0.12);
+    padding: 2%;
+    height: 400px;
+}
+.popularSession{
+    padding: 2%;
+}
+.popularSessionName{
+    padding: 1%;
+}
+.Exhibitor{
+    padding: 1%;
+}
+#tableContainer{
+    padding: 2%;
+}
+table{
+    padding: 1%;
+    width: 100%;
+}
+#transactionTable{
+    line-height: 40px;
+
+}
+.tableData{
+    padding-right: 23%;
+}
